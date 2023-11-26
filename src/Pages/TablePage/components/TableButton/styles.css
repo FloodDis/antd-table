@@ -1,0 +1,9 @@
+.table-button {
+    width: 150px;
+    background-color: rgb(117, 201, 250);
+    margin-left: 10px;
+}
+
+.table-button:hover {
+    background-color: #ffffff;
+}
